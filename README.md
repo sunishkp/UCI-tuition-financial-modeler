@@ -1,6 +1,6 @@
-UCI Tuition & Financial Planning Simulator 
+UCI Tuition & Financial Planning Modeler
 
-UCI Tuition & Financial Planning Simulator is an interactive tool that helps students estimate their tuition costs in real-time. It dynamically updates to reflect tuition, fees, scholarships, and financial aid, giving users a clear understanding of their net cost.
+UCI Tuition & Financial Planning Modeler is an interactive tool that helps students estimate their tuition costs in real-time. It dynamically updates to reflect tuition, fees, scholarships, and financial aid, giving users a clear understanding of their net cost.
 
 Tech Stack
 
